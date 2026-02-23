@@ -1,1 +1,1 @@
-# Detec.to
+# detec.to
