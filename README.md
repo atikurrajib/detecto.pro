@@ -1,1 +1,1 @@
-# Text Detector and Extractor
+# Detec.to
